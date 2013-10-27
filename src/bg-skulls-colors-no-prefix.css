@@ -1,0 +1,89 @@
+/*
+	Author: Nerdissimo a.k.a. Sergio Terrasi
+	Website: http://www.nerdissimo.it
+	email: dev@nerdissimo.it
+	GitHub: https://github.com/Nerdissimo/
+	Twitter: @Nerdissimo
+*/
+@charset 'utf-8';
+
+.bg-skulls-black {
+	background-color:	#000;
+	background-image:	radial-gradient(ellipse at center, #000 0, #000 4px, transparent 4px, transparent 100%), /* naso */
+						radial-gradient(ellipse at center, #000 0, #000 8px, transparent 8px, transparent 100%), /* occhio */
+						radial-gradient(ellipse at center, #000 0, #000 8px, transparent 8px, transparent 100%), /* occhio */
+						radial-gradient(ellipse at center, #fff 0, #fff 27px, transparent 27px, transparent 100%), /* cranio */
+						linear-gradient(to bottom, #000 0, #000 24px, transparent 24%, transparent 100%), /* spezza-mandibola */
+						linear-gradient(to right, #000 0, #000 38px, transparent 38px, transparent 62px, #000 62px, #000 100%), /* spezza-spezza-denti */
+						linear-gradient(to bottom, transparent 0, transparent 48px, #fff 48px, #fff 53px, transparent 53px, transparent 100%), /* spezza-dente-lungo-sopra */
+						linear-gradient(to bottom, transparent 0, transparent 61px, #fff 61px, #fff 65px, transparent 65px, transparent 100%), /* spezza-dente-lungo-sotto */
+						linear-gradient(to right, transparent 0, transparent 53px, #000 53px, #000 55px, transparent 55px, transparent 100%), /* dente */
+						linear-gradient(to right, transparent 0, transparent 45px, #000 45px, #000 47px, transparent 47px, transparent 100%), /* dente */
+						linear-gradient(to bottom, transparent 0, transparent 48px, #fff 48px, #fff 54px, transparent 54px, transparent 100%), /* spezza-dente-corto-sopra */
+						linear-gradient(to bottom, transparent 0, transparent 60px, #fff 60px, #fff 65px, transparent 65px, transparent 100%), /* spezza-dente-corto-sotto */
+						linear-gradient(to right, transparent 0, transparent 57px, #000 57px, #000 59px, transparent 59px, transparent 100%), /* dente */
+						linear-gradient(to right, transparent 0, transparent 49px, #000 49px, #000 51px, transparent 51px, transparent 100%), /* dente */
+						linear-gradient(to right, transparent 0, transparent 41px, #000 41px, #000 43px, transparent 43px, transparent 100%), /* dente */
+						linear-gradient(to bottom, transparent 0, transparent 56px, #000 56px, #000 58px, transparent 58px, transparent 100%), /* bocca */
+						linear-gradient(to right, transparent 0, transparent 38px, #fff 38px, #fff 62px, transparent 62px, transparent 100%); /* mandibola */
+}
+.bg-skulls-red {
+	background-color:	#f00;
+	background-image:	radial-gradient(ellipse at center, #000 0, #000 4px, transparent 4px, transparent 100%), /* naso */
+						radial-gradient(ellipse at center, #000 0, #000 8px, transparent 8px, transparent 100%), /* occhio */
+						radial-gradient(ellipse at center, #000 0, #000 8px, transparent 8px, transparent 100%), /* occhio */
+						radial-gradient(ellipse at center, #fff 0, #fff 27px, transparent 27px, transparent 100%), /* cranio */
+						linear-gradient(to bottom, #f00 0, #f00 24px, transparent 24%, transparent 100%), /* spezza-mandibola */
+						linear-gradient(to right, #f00 0, #f00 38px, transparent 38px, transparent 62px, #f00 62px, #f00 100%), /* spezza-spezza-denti */
+						linear-gradient(to bottom, transparent 0, transparent 48px, #fff 48px, #fff 53px, transparent 53px, transparent 100%), /* spezza-dente-lungo-sopra */
+						linear-gradient(to bottom, transparent 0, transparent 61px, #fff 61px, #fff 65px, transparent 65px, transparent 100%), /* spezza-dente-lungo-sotto */
+						linear-gradient(to right, transparent 0, transparent 53px, #000 53px, #000 55px, transparent 55px, transparent 100%), /* dente */
+						linear-gradient(to right, transparent 0, transparent 45px, #000 45px, #000 47px, transparent 47px, transparent 100%), /* dente */
+						linear-gradient(to bottom, transparent 0, transparent 48px, #fff 48px, #fff 54px, transparent 54px, transparent 100%), /* spezza-dente-corto-sopra */
+						linear-gradient(to bottom, transparent 0, transparent 60px, #fff 60px, #fff 65px, transparent 65px, transparent 100%), /* spezza-dente-corto-sotto */
+						linear-gradient(to right, transparent 0, transparent 57px, #000 57px, #000 59px, transparent 59px, transparent 100%), /* dente */
+						linear-gradient(to right, transparent 0, transparent 49px, #000 49px, #000 51px, transparent 51px, transparent 100%), /* dente */
+						linear-gradient(to right, transparent 0, transparent 41px, #000 41px, #000 43px, transparent 43px, transparent 100%), /* dente */
+						linear-gradient(to bottom, transparent 0, transparent 56px, #000 56px, #000 58px, transparent 58px, transparent 100%), /* bocca */
+						linear-gradient(to right, transparent 0, transparent 38px, #fff 38px, #fff 62px, transparent 62px, transparent 100%); /* mandibola */
+}
+.bg-skulls-green {
+	background-color:	#0f0;
+	background-image:	radial-gradient(ellipse at center, #000 0, #000 4px, transparent 4px, transparent 100%), /* naso */
+						radial-gradient(ellipse at center, #000 0, #000 8px, transparent 8px, transparent 100%), /* occhio */
+						radial-gradient(ellipse at center, #000 0, #000 8px, transparent 8px, transparent 100%), /* occhio */
+						radial-gradient(ellipse at center, #fff 0, #fff 27px, transparent 27px, transparent 100%), /* cranio */
+						linear-gradient(to bottom, #0f0 0, #0f0 24px, transparent 24%, transparent 100%), /* spezza-mandibola */
+						linear-gradient(to right, #0f0 0, #0f0 38px, transparent 38px, transparent 62px, #0f0 62px, #0f0 100%), /* spezza-spezza-denti */
+						linear-gradient(to bottom, transparent 0, transparent 48px, #fff 48px, #fff 53px, transparent 53px, transparent 100%), /* spezza-dente-lungo-sopra */
+						linear-gradient(to bottom, transparent 0, transparent 61px, #fff 61px, #fff 65px, transparent 65px, transparent 100%), /* spezza-dente-lungo-sotto */
+						linear-gradient(to right, transparent 0, transparent 53px, #000 53px, #000 55px, transparent 55px, transparent 100%), /* dente */
+						linear-gradient(to right, transparent 0, transparent 45px, #000 45px, #000 47px, transparent 47px, transparent 100%), /* dente */
+						linear-gradient(to bottom, transparent 0, transparent 48px, #fff 48px, #fff 54px, transparent 54px, transparent 100%), /* spezza-dente-corto-sopra */
+						linear-gradient(to bottom, transparent 0, transparent 60px, #fff 60px, #fff 65px, transparent 65px, transparent 100%), /* spezza-dente-corto-sotto */
+						linear-gradient(to right, transparent 0, transparent 57px, #000 57px, #000 59px, transparent 59px, transparent 100%), /* dente */
+						linear-gradient(to right, transparent 0, transparent 49px, #000 49px, #000 51px, transparent 51px, transparent 100%), /* dente */
+						linear-gradient(to right, transparent 0, transparent 41px, #000 41px, #000 43px, transparent 43px, transparent 100%), /* dente */
+						linear-gradient(to bottom, transparent 0, transparent 56px, #000 56px, #000 58px, transparent 58px, transparent 100%), /* bocca */
+						linear-gradient(to right, transparent 0, transparent 38px, #fff 38px, #fff 62px, transparent 62px, transparent 100%); /* mandibola */
+}
+.bg-skulls-blue {
+	background-color:	#00f;
+	background-image:	radial-gradient(ellipse at center, #000 0, #000 4px, transparent 4px, transparent 100%), /* naso */
+						radial-gradient(ellipse at center, #000 0, #000 8px, transparent 8px, transparent 100%), /* occhio */
+						radial-gradient(ellipse at center, #000 0, #000 8px, transparent 8px, transparent 100%), /* occhio */
+						radial-gradient(ellipse at center, #fff 0, #fff 27px, transparent 27px, transparent 100%), /* cranio */
+						linear-gradient(to bottom, #00f 0, #00f 24px, transparent 24%, transparent 100%), /* spezza-mandibola */
+						linear-gradient(to right, #00f 0, #00f 38px, transparent 38px, transparent 62px, #00f 62px, #00f 100%), /* spezza-spezza-denti */
+						linear-gradient(to bottom, transparent 0, transparent 48px, #fff 48px, #fff 53px, transparent 53px, transparent 100%), /* spezza-dente-lungo-sopra */
+						linear-gradient(to bottom, transparent 0, transparent 61px, #fff 61px, #fff 65px, transparent 65px, transparent 100%), /* spezza-dente-lungo-sotto */
+						linear-gradient(to right, transparent 0, transparent 53px, #000 53px, #000 55px, transparent 55px, transparent 100%), /* dente */
+						linear-gradient(to right, transparent 0, transparent 45px, #000 45px, #000 47px, transparent 47px, transparent 100%), /* dente */
+						linear-gradient(to bottom, transparent 0, transparent 48px, #fff 48px, #fff 54px, transparent 54px, transparent 100%), /* spezza-dente-corto-sopra */
+						linear-gradient(to bottom, transparent 0, transparent 60px, #fff 60px, #fff 65px, transparent 65px, transparent 100%), /* spezza-dente-corto-sotto */
+						linear-gradient(to right, transparent 0, transparent 57px, #000 57px, #000 59px, transparent 59px, transparent 100%), /* dente */
+						linear-gradient(to right, transparent 0, transparent 49px, #000 49px, #000 51px, transparent 51px, transparent 100%), /* dente */
+						linear-gradient(to right, transparent 0, transparent 41px, #000 41px, #000 43px, transparent 43px, transparent 100%), /* dente */
+						linear-gradient(to bottom, transparent 0, transparent 56px, #000 56px, #000 58px, transparent 58px, transparent 100%), /* bocca */
+						linear-gradient(to right, transparent 0, transparent 38px, #fff 38px, #fff 62px, transparent 62px, transparent 100%); /* mandibola */
+}
