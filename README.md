@@ -12,7 +12,7 @@ Basta includere bg-skulls.css e applicare la classe bg-skulls all'elemento da de
 
 Queste classi andranno a modificare le proprietà background degli elementi a cui vengono applicate disegnando i teschi con una combinazione di linear e radial gradient.
 
-Nel pacchetto troverete anche i due file css che utilizzano le propietà "gradient" e "background-size" senza l'ausilio dei vendor-prefix. Dopotutto, chi utilizza i vecchi browser merita di ammirare questi meravigliosi teschi? Direi di no.
+Nel pacchetto troverete anche i due file css che utilizzano le proprietà "gradient" e "background-size" senza l'ausilio dei vendor-prefix. Dopotutto, chi utilizza i vecchi browser merita di ammirare questi meravigliosi teschi? Direi di no.
 
 Com'è nata l'idea?
 ------------------------------
@@ -23,7 +23,7 @@ Tutto ha inizio quando s'imbattono in un problema durante lo sviluppo di un'appl
 
 @rcamplan ha quindi pensato: "perché non ci mettiamo dei teschietti?!". Avvicinandosi a @KesieV col tablet in mano ha quindi aggiunto: "...anzi, facciamoli fare a Sergio in css!".
 
-Così, spendendo qualche ora della mia vita, ho preso http://media.uccdn.com/it/images/0/6/1/img_160_ins_291_orig.jpg come modello e ho realizzato il css che proposto.
+Così, spendendo qualche ora della mia vita, prendo http://media.uccdn.com/it/images/0/6/1/img_160_ins_291_orig.jpg come modello e realizzo il css proposto.
 
 URL
 ---
